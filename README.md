@@ -4,7 +4,7 @@
 
 ### Hi there, I'm neo-mashiro, a life-long learner who's curious about everything 👋
 
-<img src="http://img5.cache.netease.com/photo/0031/2013-05-10/8UHH7N5K43UD0031.jpg" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/title.png" width=30% height=30%>
 
 I'm xxxx, introduce yourself and motivation.
 
