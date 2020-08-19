@@ -25,8 +25,7 @@ Skills: C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Apache Spark, Tensorf
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/neo-mashiro)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter)
 
 ![Profile views](https://gpvc.arturio.dev/neo-mashiro)
