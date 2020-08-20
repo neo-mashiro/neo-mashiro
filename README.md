@@ -4,8 +4,7 @@
 
 ### Howdy! I'm neo-mashiro 👋 A life-long learner who's curious about everything technical
 
-<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=30% height=30%>
-<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.png" width=7.5% height=7.5%>
+<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=30% height=30%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=30% height=30%>
 
 I've lived in Shanghai-China (hometown), Texas-US and Saitama-Japan.
 I'm currently living in Quebec, Canada.
@@ -14,7 +13,7 @@ I'm currently living in Quebec, Canada.
 <details>
 <summary>:us: :canada: ENGLISH</summary>
 
-> I'm a self-educator in Computer Science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
+> I'm a self-educator in computer science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
 
 </details>
 
@@ -43,6 +42,7 @@ I'm currently living in Quebec, Canada.
 ---
 
 :tea: How to reach me:
+
 <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
 <a href="https://www.linkedin.com/in/wentao-lu-90125157"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
