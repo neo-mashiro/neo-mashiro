@@ -11,36 +11,38 @@ I'm currently living in Quebec, Canada.
 
 
 <details>
-<summary>:us: :canada:</summary>
+<summary>:us: :canada: ENGLISH</summary>
 
-I'm a self-educator in Computer Science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
+> I'm a self-educator in Computer Science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
 
 </details>
 
 <details>
-<summary>:jp:</summary>
+<summary>:jp: 日本語</summary>
 
-プロフをご覧いただき誠にありがとうございます！中国生まれ中国育ち、30代前半の呂と申します！経済学の卒業生で、前は金融企業で活躍していたのですが、開発のほうが好きなのでIT業界に転職しました。計算機科学専門ではありませんが、インタネットのおかげで毎日欠かさずに新たな知識と技術を独学しています。ただの趣味とは言え、やっぱり日々の努力を積み重ねていくことで、スキルアップをしていきたいなと思います。質問がありましたら何でも気軽に聞いてください、仲良くしてくれると嬉しいです、何卒よろしくお願いいたします！ちなみにアニメや音楽が大好き、特にARIAが一生推しです。
+> プロフをご覧いただき誠にありがとうございます！中国生まれ中国育ち、30代前半の呂と申します！経済学の卒業生で、前は金融企業で活躍していたのですが、開発のほうが好きなのでIT業界に転職しました。計算機科学専門ではありませんが、インタネットのおかげで毎日欠かさずに新たな知識と技術を独学しています。ただの趣味とは言え、やっぱり日々の努力を積み重ねていくことで、スキルアップをしていきたいなと思います。質問がありましたら何でも気軽に聞いてください、仲良くしてくれると嬉しいです、何卒よろしくお願いいたします！ちなみにアニメや音楽が大好き、特にARIAが一生推しです。
 
 </details>
 
 
 <details>
-<summary>:cn:</summary>
+<summary>:cn: 中文</summary>
 
-大家好，这里是数理学渣一枚，ACG爱好者，沧桑大叔脸伪90后。原经济相关专业毕业，大龄转行CS选手，目前利用空余零散时间自学CS充电中，望技术大牛和科班大神们轻虐，日常不定时在线，关于有意思的话题和技术欢迎私戳～ ₍ᐢ •⌄• ᐢ₎
+> 大家好，这里是数理学渣一枚，ACG爱好者，沧桑大叔脸伪90后。原经济相关专业毕业，大龄转行CS选手，目前利用空余零散时间自学CS充电中，望技术大牛和科班大神们轻虐，日常不定时在线，关于有意思的话题和技术欢迎私戳～ ₍ᐢ •⌄• ᐢ₎
 
 </details>
 
 
-:green_apple: Languages and daily used tools:
+:green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX, a little bit Java ...
 - Linux, Apache Spark, OpenCV, Tensorflow, Numpy, Pandas, Matplotlib, a little bit HTML, CSS, Typescript and everything
 
-:sparkles: Motto - Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
+:sparkles: My life motto:
+- Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
 
-:tea: How to reach me
-<a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
+:tea: How to reach me:
+
+- <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
 <a href="https://www.linkedin.com/in/wentao-lu-90125157"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
