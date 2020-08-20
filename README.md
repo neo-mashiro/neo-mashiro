@@ -4,7 +4,8 @@
 
 ### Howdy! I'm neo-mashiro 👋 A life-long learner who's curious about everything technical
 
-<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/title.png" width=30% height=30%>
+<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=30% height=30%>
+<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.png" width=7.5% height=7.5%>
 
 I've lived in Shanghai-China (hometown), Texas-US and Saitama-Japan.
 I'm currently living in Quebec, Canada.
@@ -39,10 +40,10 @@ I'm currently living in Quebec, Canada.
 
 :sparkles: My life motto:
 - Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
+---
 
 :tea: How to reach me:
-
-- <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
+<a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
 <a href="https://www.linkedin.com/in/wentao-lu-90125157"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
