@@ -13,6 +13,10 @@ I'm currently living in Quebec, Canada.
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX, a little bit Java ...
 - Linux, Apache Spark, OpenCV, Tensorflow, Numpy, Pandas, Matplotlib, a little bit HTML, CSS, Typescript and everything
 
+:palm_tree: I'm currently working on:
+- Unity3D (primary focus), leetcode (for job seeking) and Raspberry Pi
+- pattern recognition, machine learning for finance and super resolution
+
 :corn: My life motto:
 - Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
 
