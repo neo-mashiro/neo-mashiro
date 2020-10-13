@@ -41,4 +41,4 @@ I'm currently living in Quebec, Canada.
 <!--<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=8)
