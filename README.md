@@ -6,14 +6,12 @@
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=dark&langs_count=10"/>
 
 I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
 :lemon: Self-educator in Computer Science + :heartpulse: serious ACG Lover  
 :melon: M.Sc in Financial Econometrics, Texas A&M University  
 :grapes: B.Ec in Math Economics, Shanghai University of Finance and Economics
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=dark&langs_count=10"/>
 
 :green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX...
@@ -47,3 +45,5 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 
 ..
 </details>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
