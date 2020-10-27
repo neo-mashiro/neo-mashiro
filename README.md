@@ -9,18 +9,20 @@
 I've lived in Shanghai (hometown in China), Texas (U.S.) and Saitama (Japan).
 I'm currently living in Quebec (Canada).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&langs_count=8" />
+
 :green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX...
 - Linux, Apache Spark, OpenCV, Tensorflow, CNN & RL, a bit of everything (HTML, CSS, JavaScript, Mathematica, etc.)
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` Blender, Photoshop, Unity3D
+- `(primary focus)` Blender, Unity3D, Multiplayer Networks
 - `(in parallel)` Pattern recognition, Raspberry Pi, leetcode, C++
 - `(if time allows)` Unreal 5, GANs, super resolution, Earsketch
 
 :unlock: To-Do list:
-- In-depth C++ & C#, computational geometry, computer graphics (CG), multiplayer & networks
-- Game engine development, game artificial intelligence, audio, physics and animations
+- In-depth C++ & C#, Computational Geometry, Computer Graphics (CG)
+- Game engine development, Game artificial intelligence, audio, physics and animations
 
 :corn: My life motto:
 - Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
@@ -46,4 +48,4 @@ I'm currently living in Quebec (Canada).
 </details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=8)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=8)-->
