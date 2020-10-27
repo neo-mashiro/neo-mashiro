@@ -6,33 +6,30 @@
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
 
-I've lived in {Shanghai, China} (hometown), {Texas, U.S.} and {Saitama, Japan}.
-I'm currently living in {Quebec, Canada}.
+I've lived in `Shanghai, China` (hometown), `Texas, U.S.` and `Saitama, Japan`.
+I'm currently living in `Quebec, Canada`.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,Roff&theme=dark&langs_count=10"/>
 
 :green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX...
-- Linux, Apache Spark, OpenCV, Tensorflow, CNN & RL, and a bit of everything (Web, IoT, Mathematica, etc.)
+- Linux, Apache Spark, OpenCV, Tensorflow, CNN & RL, a bit of everything...
 
 :palm_tree: I'm currently working on:
 - `(primary focus)` Blender, Unity3D, Multiplayer Networks
-- `(in parallel)` Pattern recognition, Raspberry Pi, Leetcode
+- `(in parallel)` Pattern Recognition, Raspberry Pi, Leetcode
 - `(if time allows)` Unreal 5, GANs, Super Resolution, Earsketch
 
 :unlock: To-Do list:
 - In-depth C++ & C#, Computational Geometry, Computer Graphics (CG)
 - Game Engine Development, Game AI, Shaders and Animations
 
-:corn: My life motto:
-- Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
-
 :tea: How to reach me:
 
 <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
 <a href="https://www.linkedin.com/in/wentao-lu-90125157"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
-<!--<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>-->
+<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
 
 <details>
 <summary>:seedling: More about me:</summary>
