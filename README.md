@@ -48,4 +48,4 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 ..
 </details>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)-->
