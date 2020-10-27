@@ -6,23 +6,23 @@
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
 
-I've lived in Shanghai (hometown in China), Texas (U.S.) and Saitama (Japan).
-I'm currently living in Quebec (Canada).
+I've lived in {Shanghai, China} (hometown), {Texas, U.S.} and {Saitama, Japan}.
+I'm currently living in {Quebec, Canada}.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&langs_count=8" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,Roff&theme=dark&langs_count=10"/>
 
 :green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX...
-- Linux, Apache Spark, OpenCV, Tensorflow, CNN & RL, a bit of everything (HTML, CSS, JavaScript, Mathematica, etc.)
+- Linux, Apache Spark, OpenCV, Tensorflow, CNN & RL, and a bit of everything (Web, IoT, Mathematica, etc.)
 
 :palm_tree: I'm currently working on:
 - `(primary focus)` Blender, Unity3D, Multiplayer Networks
-- `(in parallel)` Pattern recognition, Raspberry Pi, leetcode, C++
-- `(if time allows)` Unreal 5, GANs, super resolution, Earsketch
+- `(in parallel)` Pattern recognition, Raspberry Pi, Leetcode
+- `(if time allows)` Unreal 5, GANs, Super Resolution, Earsketch
 
 :unlock: To-Do list:
 - In-depth C++ & C#, Computational Geometry, Computer Graphics (CG)
-- Game engine development, Game artificial intelligence, audio, physics and animations
+- Game Engine Development, Game AI, Shaders and Animations
 
 :corn: My life motto:
 - Education is an endless journey through knowledge and enlightenment, which in its real sense is the pursuit of truth.
@@ -47,5 +47,5 @@ I'm currently living in Quebec (Canada).
 ..
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=8)-->
