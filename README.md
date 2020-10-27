@@ -2,14 +2,18 @@
 **neo-mashiro/neo-mashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Howdy! I'm neo-mashiro 👋 A life-long learner who's curious about everything technical...
+### Howdy! I'm neo-mashiro 👋 A lifelong learner who's curious about technical stuff ...
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
 
-I've lived in `Shanghai, China` (hometown), `Texas, U.S.` and `Saitama, Japan`.
-I'm currently living in `Quebec, Canada`.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,Roff&theme=dark&langs_count=10"/>
+I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
+:lemon: Self-educator in Computer Science + :heartpulse: serious ACG Lover  
+:melon: M.Sc in Financial Econometrics, Texas A&M University  
+:grapes: B.Ec in Math Economics, Shanghai University of Finance and Economics
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=dark&langs_count=10"/>
 
 :green_apple: I know about:
 - C/C++, Python, Oracle PL/SQL, MongoDB, Go, R, SAS, Unity C#, bash, Git, LaTeX...
@@ -32,7 +36,7 @@ I'm currently living in `Quebec, Canada`.
 <a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
 
 <details>
-<summary>:seedling: More about me:</summary>
+  <summary>:seedling: More about me:</summary>
 
 ..
 > (English): I'm a self-educator in computer science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
@@ -43,6 +47,3 @@ I'm currently living in `Quebec, Canada`.
 
 ..
 </details>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&layout=compact&hide=Jupyter&langs_count=8)-->
