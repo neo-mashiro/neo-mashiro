@@ -4,7 +4,7 @@
 
 ### Howdy! I'm neo-mashiro 👋 A life-long learner who's curious about everything technical...
 
-<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>
+<!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
 
 I've lived in Shanghai (hometown in China), Texas (U.S.) and Saitama (Japan).
 I'm currently living in Quebec (Canada).
