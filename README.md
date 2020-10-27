@@ -8,7 +8,7 @@
 
 I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=dark&langs_count=10"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=dark&langs_count=10&custom_title=Top%20Languages&card_width=250"/>
 
 :heartpulse: About me:
 - Self-educator in Computer Science, ACG Lover  
@@ -27,8 +27,6 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 :unlock: To-Do list:
 - In-depth C++ & C#, Computational Geometry, Computer Graphics (CG)
 - Game Engine Development, Game AI, Shaders and Animations
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>
 
 :tea: How to reach me:
 
@@ -49,3 +47,5 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 
 ..
 </details>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
