@@ -35,8 +35,10 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
 
+:seedling: More about me:
+
 <details>
-  <summary>:seedling: More about me:</summary>
+  <summary>Click to see</summary>
 
 ..
 > (English): I'm a self-educator in computer science who's enthusiastic about technical innovations. Despite the lack of background in CS, I'm constantly learning new stuff online where education resources abound. I previously majored in finance and econometrics (until 2014), used to be a restaurant waiter, cashier, delivery driver, financial advisor, and then made a career shift into the IT industry as a database engineer. I aspire to become an inquisitive, energetic computer specialist, data scientist or quantitative analyst with a solid foundation in both technical skills and industry domain expertise.
