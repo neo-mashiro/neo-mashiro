@@ -35,6 +35,8 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics&hide_rank=true&hide_border=true"/>
+
 <details>
   <summary>:seedling: More about me:</summary>
 
@@ -47,5 +49,3 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 
 ..
 </details>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
