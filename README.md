@@ -8,7 +8,7 @@
 
 I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=buefy&langs_count=10&custom_title=Top%20Languages&card_width=280"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter&theme=buefy&langs_count=15&custom_title=Top%20Languages&card_width=280"/>
 
 :heartpulse: About me:
 - Self-educator in Computer Science, ACG Lover  
