@@ -2,13 +2,13 @@
 **neo-mashiro/neo-mashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Howdy! I'm neo-mashiro 👋 A lifelong learner who's curious about technical stuff ...
+### Howdy! I'm neo-mashiro 👋 A hobbyist game developer with a passion for graphics
 
-<!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title.png" width=40% height=40%> <img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/title2.jpg" width=40% height=40%>-->
+<!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
 
 I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=15&custom_title=%F0%9F%92%8E%20Top%20Languages&card_width=280"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=10&custom_title=%E2%9D%84%EF%B8%8F%20&nbsp;&nbsp;Top%20Languages&nbsp;&nbsp;%20%E2%98%80%EF%B8%8F&card_width=280"/>
 
 :heartpulse: About me:
 - Self-educator in Computer Science, ACG Lover  
@@ -21,7 +21,7 @@ I've lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently 
 
 :palm_tree: I'm currently working on:
 - `(primary focus)` Unity3D, Animation State Machine, Inventory UI System
-- `(in parallel)` OpenGL 4.6, GLSL, Blender, VRoid Studio, Raspberry Pi
+- `(in parallel)` OpenGL 4, GLSL, Blender, VRoid Studio, Raspberry Pi
 - `(if time allows)` Unreal 5, GANs, Super Resolution, Earsketch
 
 :unlock: To-Do list:
