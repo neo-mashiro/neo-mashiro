@@ -5,7 +5,6 @@
 ### Howdy! I'm neo-mashiro ₍ᐢ •⌄• ᐢ₎ A hobbyist game developer with a passion for 3D graphics ✨
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
-<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>
 
 :leaves:&nbsp; I have lived in `Shanghai, China`, `Texas, USA`, `Saitama, Japan` and `Dream, Brain`. I currently live in `Quebec, Canada`.  
 
