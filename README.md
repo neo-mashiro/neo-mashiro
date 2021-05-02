@@ -5,6 +5,7 @@
 ### Howdy! I'm neo-mashiro ₍ᐢ •⌄• ᐢ₎ A hobbyist game developer with a passion for 3D graphics ✨
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
+<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>
 
 :leaves:&nbsp; I have lived in `Shanghai, China`, `Texas, USA`, `Saitama, Japan` and `Dream, Brain`. I currently live in `Quebec, Canada`.  
 
@@ -34,11 +35,11 @@
 
 :tea: How to reach me:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>
-
 <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
 <a href="https://www.linkedin.com/in/wentao-lu-90125157"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <!--<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>-->
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=ffffff&color=000000&line=1da7f1&point=4aab45&area=true&hide_border=true)
+
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>-->
