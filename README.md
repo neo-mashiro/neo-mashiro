@@ -32,6 +32,8 @@
 - In-depth C++ & C#, Advanced Graphics & Geometry
 - Go coroutines, Game Engine, Game AI, Advanced shaders
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>
+
 :tea: How to reach me:
 
 <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
@@ -39,7 +41,4 @@
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <!--<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>-->
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)-->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=ffffff&color=000000&line=1da7f1&point=4aab45&area=true&hide_border=true)
