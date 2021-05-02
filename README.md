@@ -6,11 +6,11 @@
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
 
-I have lived in `Shanghai, China`, `Texas, USA`, `Saitama, Japan` and `Dream, Brain`. I currently live in `Quebec, Canada`.  
+:leaves:&nbsp; I have lived in `Shanghai, China`, `Texas, USA`, `Saitama, Japan` and `Dream, Brain`. I currently live in `Quebec, Canada`.  
 
-I speak `English` (fluent), `Japanese` (proficient), `Mandarin` (native) and `Machine-Code` (sometimes at night).  
+:four_leaf_clover:&nbsp; I speak `English` (fluent), `Japanese` (proficient), `Mandarin` (native) and `Machine-Code` (sometimes at night).  
 
-Game development and 3D rendering are my favorite domain, I aspire to become an inquisitive, energetic game developer with great artistic sense, and hope to dive into VR applications in the future.  
+:herb:&nbsp; Game development and 3D rendering are my favorite domain, I aspire to become an inquisitive, energetic game developer with great artistic sense, and hope to dive into VR applications in the future.  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=8&custom_title=%E2%9D%84%EF%B8%8F%20&nbsp;&nbsp;Top%20Languages&nbsp;&nbsp;%20%E2%98%80%EF%B8%8F&card_width=280"/>
 
@@ -41,4 +41,4 @@ Game development and 3D rendering are my favorite domain, I aspire to become an 
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)-->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=ffffff&color=9e4c98&line=fccefd&point=8000ff&area=true&hide_border=true)]
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=f0ffe1&color=9e4c98&line=0fa2f0&point=50b54a&area=false&hide_border=true)
