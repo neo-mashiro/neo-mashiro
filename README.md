@@ -41,4 +41,4 @@
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics)-->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=f0ffe1&color=9e4c98&line=0fa2f0&point=50b54a&area=false&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=f0ffe1&color=9e4c98&line=0fa2f0&point=50b54a&area=false&hide_border=false)
