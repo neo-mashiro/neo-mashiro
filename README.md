@@ -15,9 +15,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=8&custom_title=%E2%9D%84%EF%B8%8F%20&nbsp;&nbsp;Top%20Languages&nbsp;&nbsp;%20%E2%98%80%EF%B8%8F&card_width=280&hide_border=true"/>
 
 :heartpulse: About me:
-- Self-educator in Computer Science, ACG Lover  
-- M.Sc in Financial Econometrics, Texas A&M University  
-- B.Ec in Mathematical Economics, Shanghai University of Finance & Economics
+- Self-educator in Computer Science, lifelong learner & ACG lover  
+- M.Sc in Financial Econometrics, Texas A&M University, College Station (2014)  
+- B.Ec in Mathematical Economics, Shanghai University of Finance & Economics (2012)
 
 :green_apple: I know about:
 - C/C++, Python, C#, Go, Lua, RStudio, SAS, Oracle PL/SQL, MongoDB
@@ -29,7 +29,7 @@
 - `(if time allows)` Unreal, Blender, VRoid Studio, Procedural Shading
 
 :seedling: To-Do list:
-- In-depth C++ & C#, Advanced Graphics, 3D Modeling
+- In-depth C++ & C#, Advanced Graphics, 3D Modeling & Animation
 - Go coroutines, Game Engine, Game AI, Advanced Rendering
 
 :tea: How to reach me:
