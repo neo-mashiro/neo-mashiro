@@ -12,7 +12,7 @@
 
 :herb:&nbsp; Game development and 3D rendering are my favorite domain, I aspire to become an inquisitive, energetic game developer with great artistic sense, and hope to dive into VR applications in the future.  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=8&custom_title=%E2%9D%84%EF%B8%8F%20&nbsp;&nbsp;Top%20Languages&nbsp;&nbsp;%20%E2%98%80%EF%B8%8F&card_width=280&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-mashiro&hide=Jupyter,html,Roff&theme=buefy&langs_count=9&custom_title=%E2%9D%84%EF%B8%8F%20&nbsp;&nbsp;Top%20Languages&nbsp;&nbsp;%20%E2%98%80%EF%B8%8F&card_width=280&hide_border=true"/>
 
 :heartpulse: About me:
 - Self-educator in Computer Science, lifelong learner & ACG lover  
