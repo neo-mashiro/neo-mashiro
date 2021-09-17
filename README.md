@@ -24,13 +24,13 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` Unity3D, Animation State Machine, Inventory & UI System
-- `(in parallel)` OpenGL 4.6, GLSL, ShaderLab, SHADERed, Motion Matching
-- `(if time allows)` Unreal, Blender, VRoid Studio, Procedural Shading
+- `(primary focus)` OpenGL Rendering Engine, Global Illumination, Real-time Raytracing
+- `(in parallel)` Unity Animation State Machine, UI System, Inventory System
+- `(if time allows)` Motion Matching (Animation), Unity DOTS, Procedural Shading
 
 :seedling: To-Do list:
-- In-depth C++ & C#, Advanced Graphics, 3D Modeling & Animation
-- Go coroutines, Game Engine, Game AI, Advanced Rendering
+- In-depth C++ & C#, Offline Raytracing, Advanced Geometry
+- Non-Photorealistic Rendering, Deep Learning Super Sampling
 
 :tea: How to reach me:
 
