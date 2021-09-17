@@ -24,7 +24,7 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` OpenGL Rendering Engine, Global Illumination, Real-time Raytracing
+- `(primary focus)` OpenGL Renderer, Two-bounce Global Illumination, Real-time Raytracing
 - `(in parallel)` Unity Animation State Machine, UI System, Inventory System
 - `(if time allows)` Motion Matching (Animation), Unity DOTS, Procedural Shading
 
