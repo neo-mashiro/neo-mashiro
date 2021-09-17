@@ -24,12 +24,12 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` OpenGL Renderer, Two-bounce Global Illumination, Real-time Raytracing
+- `(primary focus)` PCSS shadows, Real-time Global Illumination & Raytracing
 - `(in parallel)` Unity Animation State Machine, UI System, Inventory System
 - `(if time allows)` Motion Matching (Animation), Unity DOTS, Procedural Shading
 
 :seedling: To-Do list:
-- In-depth C++ & C#, Offline Raytracing, Advanced Geometry
+- In-depth C++ & C#, Offline Path Tracing, Advanced Geometry
 - Non-Photorealistic Rendering, Deep Learning Super Sampling
 
 :tea: How to reach me:
