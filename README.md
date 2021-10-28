@@ -39,6 +39,6 @@
 <a href="https://twitter.com/neo_mashiro"><img src="https://img.shields.io/twitter/follow/neo_mashiro?label=Twitter&style=social"></a>
 <!--<a href="https://www.zhihu.com/people/neo-mashiro"><img src="https://img.shields.io/badge/zhihu--_.svg?style=social&logo=zhihu"></a>-->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=00000000&color=888888&line=1da7f1&point=4aab45&area=true&area_color=48adff&hide_border=true&custom_title=Recent%20Contributions)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-mashiro&bg_color=00000000&color=888888&line=1da7f1&point=4aab45&area=true&area_color=1295ff&hide_border=true&custom_title=Recent%20Contributions)
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=neo-mashiro&show_icons=true&count_private=true&theme=buefy&hide=contribs&title_color=000000&custom_title=Summary%20Statistics"/>-->
