@@ -30,7 +30,7 @@
 
 :seedling: To-Do list:
 - Hair, Water and Cloth Simulation, Volumetric Rendering, Particle Systems
-- In-depth C++ & C#, Offline Path Tracing, Advanced Geometry, Blender
+- In-depth C++ & C#, Advanced Geometry, Modeling with Blender, Vulkan API
 - Unity Motion Matching (Animation), Unity DOTS, Procedural Shading
 
 :tea: How to reach me:
