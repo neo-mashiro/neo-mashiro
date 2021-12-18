@@ -24,7 +24,7 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` PCSS shadows, Real-time Global Illumination & Ray Tracing
+- `(primary focus)` PCSS shadows, Realtime Global Illumination and Ray Tracing
 - `(in parallel)` Linearly Transformed Cosines, Raymarching SDFs, BSDF, BSSRDF
 - `(if time allows)` Multi Importance Samling, Precomputed Radiance Transfer
 
