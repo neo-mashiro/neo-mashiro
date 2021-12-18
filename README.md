@@ -25,13 +25,13 @@
 
 :palm_tree: I'm currently working on:
 - `(primary focus)` PCSS shadows, Real-time Global Illumination & Raytracing
-- `(in parallel)` Unity Animation State Machine, UI System, Inventory System
-- `(if time allows)` Motion Matching (Animation), Unity DOTS, Procedural Shading
+- `(in parallel)` Linearly Transformed Cosines (LTC), Raymarching SDFs, BSDF, BTDF, BSSRDF
+- `(if time allows)` Multi Importance Samling (MIS), Precomputed Radiance Transfer (PRT)
 
 :seedling: To-Do list:
-- In-depth C++ & C#, Offline Path Tracing, Advanced Geometry
-- Non-Photorealistic Rendering, Deep Learning Super Sampling
-
+- Hair, Water and Cloth Simulation, Volumetric Rendering, Particle Systems
+- In-depth C++ & C#, Offline Path Tracing, Advanced Geometry, Blender
+- Unity Motion Matching (Animation), Unity DOTS, Procedural Shading
 :tea: How to reach me:
 
 <a href="https://github.com/neo-mashiro"><img src="https://img.shields.io/github/followers/neo-mashiro?label=Github&style=social"></a>
