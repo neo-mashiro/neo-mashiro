@@ -26,7 +26,7 @@
 :palm_tree: I'm currently working on:
 - `(primary focus)` Bezier Area Light, Order-Independent Transparency
 - `(in parallel)` Compute Shader Particle System, Realistic Fire
-- `(if time allows)` Data-Oriented Design, Frame Graph
+- `(if time allows)` Data-Oriented Design, Frame Graph, SSR
 
 :seedling: To-Do list:
 - Monte Carlo Path Tracing: Global Illumination, Volumetric Rendering, MIS
