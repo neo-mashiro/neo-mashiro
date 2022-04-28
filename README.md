@@ -24,13 +24,13 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` PCSS shadows, Particle Systems, Using Noises
-- `(in parallel)` Data-Oriented Design, Frame Graph, Serialization
-- `(if time allows)` Order-Independent Transparency, Area Lights
+- `(primary focus)` Bezier Area Light, Order-Independent Transparency
+- `(in parallel)` Compute Shader Particle System, Realistic Fire
+- `(if time allows)` Data-Oriented Design, Frame Graph
 
 :seedling: To-Do list:
 - Monte Carlo Path Tracing: Global Illumination, Volumetric Rendering, MIS
-- Temporal AA, Raymarching SDFs, LTC, PRT, Water Simulation, Hair, Caustics
+- Temporal AA, Raymarching SDFs, PRT, Water Simulation, Hair, Caustics
 - In-depth C++ & C#, Advanced Geometry, Modeling with Blender, Vulkan API
 - Unity Motion Matching (Animation), Unity DOTS, Procedural Shading
 
