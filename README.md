@@ -2,7 +2,7 @@
 **neo-mashiro/neo-mashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Howdy! I'm neo-mashiro ₍ᐢ •⌄• ᐢ₎ An enthusiastic programmer with a passion for 3D graphics ✨
+### Howdy! This is neo-mashiro ₍ᐢ •⌄• ᐢ₎ A C++ enthusiast with a passion for 3D Graphics and Game Dev ✨
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
 
