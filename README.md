@@ -22,7 +22,7 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` Bezier Area Light, Order-Independent Transparency
+- `(primary focus)` Vulkan API, optimizations! Bezier Area Light
 - `(in parallel)` Compute Shader Particle System, Realistic Fire
 - `(if time allows)` Data-Oriented Design, Frame Graph, SSR
 
