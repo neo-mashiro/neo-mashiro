@@ -22,15 +22,15 @@
 - Unity3D, OpenGL, GLSL, Linux, Git, Unix Shell, LaTeX, OpenCV...
 
 :palm_tree: I'm currently working on:
-- `(primary focus)` Vulkan API, optimizations! Bezier Area Light
-- `(in parallel)` Compute Shader Particle System, Realistic Fire
-- `(if time allows)` Data-Oriented Design, Frame Graph, SSR
+- `(primary focus)` Vulkan API, C++ Concurrency in Action
+- `(in parallel)` USD Pipeline, DCC Software and Workflows
+- `(if time allows)` Graphics Optimization, Design Patterns
 
 :seedling: To-Do list:
-- Monte Carlo Path Tracing: Global Illumination, Volumetric Rendering, MIS
-- Temporal AA, Raymarching SDFs, PRT, Water Simulation, Hair, Caustics
-- In-depth C++ & C#, Advanced Geometry, Modeling with Blender, Vulkan API
-- Unity Motion Matching (Animation), Unity DOTS, Procedural Shading
+- Intrinsics and x86 assembly, In-depth C++, Unreal Engine 5
+- Monte Carlo Path Tracing, Real-time RTX, Multi-bounce Dynamic GI
+- TAA, SDF, PRT, MIS, SSS, Water & Hair Simulation, Caustics
+- Particle System, Realistic Fire, Bezier Area Light ...
 
 :tea: How to reach me:
 
