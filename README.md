@@ -6,7 +6,7 @@
 
 <!--<img src="https://raw.githubusercontent.com/neo-mashiro/neo-mashiro/master/support/heal.png" width=80% height=80%>-->
 
-:leaves:&nbsp; I have lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Quebec, Canada`.  
+:leaves:&nbsp; I have lived in `Shanghai, China`, `Texas, USA` and `Saitama, Japan`. I currently live in `Vancouver, Canada`.  
 
 :four_leaf_clover:&nbsp; I speak `English` (fluent), `Japanese` (proficient), `Mandarin` (native) and `Machine-Code` (sometimes at night).  
 
